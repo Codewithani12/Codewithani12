@@ -1,53 +1,37 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Aniket</h1>
+<h3 align="center">A Passionate Frontend Developer & Tech Enthusiast from India 🇮🇳</h3>
 
-# Hi 👋, I'm Aniket
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer;JavaScript+Enthusiast;Future+Full+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Welcome%20To%20My%20Profile&fontSize=35&fontAlign=50&fontAlignY=35&animation=fadeIn" />
-
-</div>
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Developer;JavaScript+Enthusiast;Frontend+Developer;Always+Learning+New+Things" />
+</p>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🚀 About Me
 
 - 🌱 Currently learning **JavaScript & Web Development**
-- 💻 Passionate about building beautiful websites
-- 🎯 Goal: Become a **Full Stack Developer**
-- 🚀 Love exploring new technologies
-- ⚡ Fun fact: I believe consistency beats motivation
+- 💻 Building responsive and modern websites
+- 🎯 Goal: Become a Full Stack Developer
+- 📚 Learning every day and improving consistently
+- ⚡ Fun fact: I love turning ideas into reality through code
 
 <br>
 
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="#">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="#">
-<img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-<a href="#">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-<a href="#">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
-<p align="center">
+<p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,react,nodejs,express,mongodb,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=bootstrap" />
+<img src="https://skillicons.dev/icons?i=tailwind" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=express" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
 
 </p>
 
@@ -55,63 +39,72 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ANIKET_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANIKET_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ANIKET_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ANIKET_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ANIKET_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🌐 Connect With Me
 
-<div align="center">
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
-<img src="https://raw.githubusercontent.com/ANIKET_USERNAME/ANIKET_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<a href="https://twitter.com/YOUR_TWITTER">
+  <img src="https://skillicons.dev/icons?i=twitter" />
+</a>
 
-</div>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://instagram.com/YOUR_INSTAGRAM">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+</p>
 
 ---
 
-## 💻 Current Focus
+## 💭 Quote
 
-```javascript
-const aniket = {
-    role: "Frontend Developer",
-    learning: ["JavaScript", "React", "Node.js"],
-    passion: "Building Modern Websites",
-    goal: "Become a Full Stack Developer",
-    country: "India 🇮🇳"
-}
+<p align="center">
+  <i>"Consistency beats motivation every single time."</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! ⭐
+</p>
