@@ -55,13 +55,11 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Codewithani12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Codewithani12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codewithani12&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codewithani12&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -77,12 +75,9 @@
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Codewithani12&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Codewithani12&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 ---
 
 ## 📈 Contribution Graph
