@@ -85,19 +85,3 @@
 </div>
 
 ---
-
-## 💻 Current Focus
-
-```javascript
-const aniket = {
-    role: "Frontend Developer",
-    learning: ["JavaScript", "React", "Node.js"],
-    passion: "Building Modern Websites",
-    goal: "Become a Full Stack Developer",
-    country: "India 🇮🇳"
-}
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnav7777/arnav7777/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arnav7777/arnav7777/output/github-snake-light.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/arnav7777/arnav7777/output/github-snake-light.svg">
-</picture>
