@@ -78,10 +78,6 @@
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Codewithani12/Codewithani12/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Codewithani12/Codewithani12/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
