@@ -56,7 +56,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Codewithani12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170em" src="<img width="680" height="428" alt="github gif" src="https://github.com/user-attachments/assets/31ea66b4-2a38-4be8-944d-f5f9bc3c2733" />
+/api?username=Codewithani12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codewithani12&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
