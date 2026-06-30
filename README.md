@@ -57,9 +57,9 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ANIKET_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Codewithani12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANIKET_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codewithani12&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ANIKET_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Codewithani12&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -79,7 +79,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ANIKET_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Codewithani12&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -89,7 +89,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ANIKET_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Codewithani12&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -99,7 +99,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ANIKET_USERNAME/ANIKET_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Codewithani12/Codewithani12/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
